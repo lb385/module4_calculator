@@ -1,12 +1,5 @@
 # Module 4 Calculator
 
-Simple modular calculator implementing operations, a calculation factory, history manager, REPL, and tests with CI.
-
-Project structure
-
-module4_calculator/
-# Module 4 Calculator
-
 A professional, modular command-line calculator with a REPL interface, factory
 pattern, calculation history, and complete test coverage enforced via CI.
 
